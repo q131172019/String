@@ -1,4 +1,4 @@
-# String Function - Reverse
+# String Functions
+# - Reverse
 #
 #
-# string functions
